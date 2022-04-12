@@ -26,58 +26,52 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Pools',
+    label: 'Staking',
     icon: 'PoolIcon',
     href: '/nests',
   },
-  // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
-  //   href: '/pools',
-  // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: '/lottery',
-  // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
   {
-    label: 'Play 2 Earn & AirDrop',
+     label: 'Bridge',
+     icon: 'PoolIcon',
+     href: '/pools',
+   },
+   {
+     label: 'DegenClub',
+     icon: 'TicketIcon',
+   href: '/lottery',
+   },
+   {
+     label: 'Degenz NFT',
+     icon: 'NftIcon',
+     href: '/nft',
+   },
+   {
+    label: 'Audits',
+    icon: 'NftIcon',
+    href: '',
+  },
+  {
+    label: 'Partnership',
+    icon: 'NftIcon',
+    href: '/nft',
+  },
+  {
+    label: 'Charts ',
     icon: 'InfoIcon',
     items: [
       {
-        label: 'PreSale',
+        label: 'Chart',
         href: 'https://dx.app/app/v3/defipresale?saleID=23&chain=Fantom',
-      },
-      {
-        label: 'Play 2 Earn coming soon',
-        href: '#',
-      },
-      {
-        label: 'AirDrop',
-        href: '#',
       },
     ],
   },
   {
-    label: 'More & Charts',
+    label: 'Docs',
     icon: 'MoreIcon',
     items: [
       {
-        label: 'DexScreener',
-        href: '#',
-      },
-      {
         label: 'Docs',
         href: 'https://gitbook.animeswapdefi.com/animeswapdefi.com/animeswapdefi-projects/waifuswapdefi',
-      },
-      {
-        label: 'Blog',
-        href: '#',
       },
     ],
   },
