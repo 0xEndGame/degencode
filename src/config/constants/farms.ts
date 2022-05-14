@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'WAIFU-fUSDT',
+    lpSymbol: 'DEGENCODE-fUSDT',
     lpAddresses: {
       250: '0xC4045e90f65dD0405aC6CeAb18Eb37C29A1Bb990',
       97: '',
     },
-    tokenSymbol: 'WAIFU',
+    tokenSymbol: 'DEGENCODE',
     tokenAddresses: {
       250: '0xa99a2A440494299476f4ceB1696433c66c0d7358',
       97: '',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'WAIFU-WFTM',
+    lpSymbol: 'DEGENCODE-WFTM',
     lpAddresses: {
       250: '0x1A07372a4B17040BDeeCD416249C1171974199da',
       97: '',
     },
-    tokenSymbol: 'WAIFU',
+    tokenSymbol: 'DEGENCODE',
     tokenAddresses: {
       250: '0xa99a2A440494299476f4ceB1696433c66c0d7358',
       97: '',
@@ -102,12 +102,12 @@ const farms: FarmConfig[] = [
     pid: 6,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'WAIFU',
+    lpSymbol: 'DEGENCODE',
     lpAddresses: {
       250: '0xC4045e90f65dD0405aC6CeAb18Eb37C29A1Bb990',
-      97: '', // WAIFU-USDT LP
+      97: '', // DEGENCODE-USDT LP
     },
-    tokenSymbol: 'WAIFU',
+    tokenSymbol: 'DEGENCODE',
     tokenAddresses: {
       250: '0xa99a2A440494299476f4ceB1696433c66c0d7358',
       97: '',

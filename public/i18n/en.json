@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total WAIFU burned since launch"
+        "text": "Total DEGENCODE burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn WAIFU"
+        "text": "Stake LP tokens to earn DEGENCODE"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake WAIFU, get SYRUP."
+        "text": "Stake DEGENCODE, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake WAIFU tokens, the contract will automatically harvest WAIFU rewards for you!"
+        "text": "Every time you stake and unstake DEGENCODE tokens, the contract will automatically harvest DEGENCODE rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Waifu price"
+        "text": "DegenCode price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 WAIFU = 1 SYRUP"
+        "text": "1 DEGENCODE = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of Waifu block emissions each day (10 Waifu per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of DegenCode block emissions each day (10 DegenCode per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% Waifu"
+        "text": "%num% DegenCode"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend Waifu to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend DegenCode to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% Waifu Available"
+        "text": "%num% DegenCode Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 Waifu"
+        "text": "Your amount must be a multiple of 10 DegenCode"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 Waifu"
+        "text": "1 Ticket = 10 DegenCode"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your Waifu cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your DegenCode cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "Waifu prizes to be claimed"
+        "text": "DegenCode prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve Waifu"
+        "text": "Approve DegenCode"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of Waifu block emissions each day (10 Waifu per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of DegenCode block emissions each day (10 DegenCode per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using Waifu-BNB LP tokens, which means you need to stake equal amounts of Waifu and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using DegenCode-BNB LP tokens, which means you need to stake equal amounts of DegenCode and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get Waifu-BNB LP >"
+        "text": "Get DegenCode-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Anime Swap Defi burns the Waifu."
+        "text": "The project gets the BNB, Anime Swap Defi burns the DegenCode."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Waifu Stats"
+        "text": "DegenCode Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New Waifu\/block"
+        "text": "New DegenCode\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "Waifu to Harvest"
+        "text": "DegenCode to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "Waifu in Wallet"
+        "text": "DegenCode in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting Waifu"
+        "text": "Collecting DegenCode"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "Waifu to Collect"
+        "text": "DegenCode to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake Waifu to earn new tokens."
+        "text": "Stake DegenCode to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "Waifu to burn (USD)"
+        "text": "DegenCode to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest Waifu rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest DegenCode rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy Waifu and BNB tokens"
+        "text": "Buy DegenCode and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get Waifu-BNB LP tokens by adding Waifu and BNB liquidity"
+        "text": "Get DegenCode-BNB LP tokens by adding DegenCode and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your Waifu-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your DegenCode-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for Waifu, or keep for your collection!"
+        "text": "Trade in for DegenCode, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive Waifu, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive DegenCode, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a Waifu value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a DegenCode value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for Waifu"
+        "text": "Trade in for DegenCode"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn Waifu"
+        "text": "Stake LP tokens to earn DegenCode"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The Waifu Lottery"
+        "text": "The DegenCode Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with Waifu"
+        "text": "Buy tickets with DegenCode"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback Waifu"
+        "text": "Deposit Fee will be used to buyback DegenCode"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn Waifu"
+        "text": "Stake tokens to earn DegenCode"
       }
     },
     {
